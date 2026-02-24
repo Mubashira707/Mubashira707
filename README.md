@@ -10,3 +10,8 @@
 - Data Structures
 - Java (OOP)
 
+## 📂 Projects
+- OOP based project
+- Used classes, inheritance, exception handling
+- Database project
+- Built a movie ticket sytem
