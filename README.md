@@ -14,4 +14,4 @@
 - OOP based project
 - Used classes, inheritance, exception handling
 - Database project
-- Built a movie ticket sytem
+- Built a movie ticket sytem 
