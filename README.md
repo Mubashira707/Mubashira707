@@ -15,3 +15,4 @@
 - Used classes, inheritance, exception handling
 - Database project
 - Built a movie ticket sytem
+- DDL random counter project
